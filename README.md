@@ -1,4 +1,4 @@
 # MinecraftServerApril2023
 run:
 
-java -jar server.jar -Xmx12G -Xms12G --nogui
+java -Xms12G -Xmx12G -jar server.jar nogui
