@@ -1,114 +1,349 @@
-[02:49:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:49:02] [ServerMain/INFO]: Loaded 7 recipes
-[02:49:02] [ServerMain/INFO]: Loaded 1179 advancements
-[02:49:03] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[02:49:03] [Server thread/INFO]: Loading properties
-[02:49:03] [Server thread/INFO]: Default game type: SURVIVAL
-[02:49:03] [Server thread/INFO]: Generating keypair
-[02:49:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:49:03] [Server thread/INFO]: Using epoll channel type
-[02:49:03] [Server thread/INFO]: Preparing level "world"
-[02:49:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:49:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:49:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:49:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:49:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:49:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:49:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:49:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[02:49:16] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:49:16] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:49:17] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[02:49:17] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[02:49:18] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[02:49:18] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[02:49:19] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[02:49:19] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[02:49:20] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[02:49:20] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[02:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[02:49:21] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[02:49:22] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[02:49:22] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[02:49:23] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[02:49:23] [Worker-Main-1/INFO]: Preparing spawn area: 13%
-[02:49:24] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[02:49:24] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[02:49:25] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[02:49:25] [Worker-Main-3/INFO]: Preparing spawn area: 17%
-[02:49:26] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[02:49:26] [Worker-Main-3/INFO]: Preparing spawn area: 20%
-[02:49:27] [Worker-Main-3/INFO]: Preparing spawn area: 21%
-[02:49:27] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[02:49:28] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[02:49:28] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[02:49:29] [Worker-Main-3/INFO]: Preparing spawn area: 25%
-[02:49:29] [Worker-Main-1/INFO]: Preparing spawn area: 26%
-[02:49:30] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[02:49:30] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[02:49:31] [Worker-Main-1/INFO]: Preparing spawn area: 29%
-[02:49:31] [Worker-Main-2/INFO]: Preparing spawn area: 30%
-[02:49:32] [Worker-Main-3/INFO]: Preparing spawn area: 31%
-[02:49:32] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[02:49:33] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[02:49:33] [Worker-Main-1/INFO]: Preparing spawn area: 35%
-[02:49:34] [Worker-Main-1/INFO]: Preparing spawn area: 36%
-[02:49:34] [Worker-Main-3/INFO]: Preparing spawn area: 37%
-[02:49:35] [Worker-Main-1/INFO]: Preparing spawn area: 39%
-[02:49:35] [Worker-Main-3/INFO]: Preparing spawn area: 41%
-[02:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 42%
-[02:49:36] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[02:49:37] [Worker-Main-3/INFO]: Preparing spawn area: 44%
-[02:49:37] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[02:49:38] [Worker-Main-2/INFO]: Preparing spawn area: 46%
-[02:49:38] [Worker-Main-3/INFO]: Preparing spawn area: 47%
-[02:49:39] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[02:49:39] [Worker-Main-1/INFO]: Preparing spawn area: 49%
-[02:49:40] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[02:49:40] [Worker-Main-1/INFO]: Preparing spawn area: 52%
-[02:49:41] [Worker-Main-2/INFO]: Preparing spawn area: 53%
-[02:49:41] [Worker-Main-3/INFO]: Preparing spawn area: 54%
-[02:49:42] [Worker-Main-2/INFO]: Preparing spawn area: 55%
-[02:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[02:49:43] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[02:49:43] [Worker-Main-1/INFO]: Preparing spawn area: 58%
-[02:49:44] [Worker-Main-3/INFO]: Preparing spawn area: 59%
-[02:49:44] [Worker-Main-3/INFO]: Preparing spawn area: 61%
-[02:49:45] [Worker-Main-2/INFO]: Preparing spawn area: 62%
-[02:49:45] [Worker-Main-3/INFO]: Preparing spawn area: 63%
-[02:49:46] [Worker-Main-1/INFO]: Preparing spawn area: 65%
-[02:49:46] [Worker-Main-1/INFO]: Preparing spawn area: 66%
-[02:49:47] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[02:49:47] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[02:49:48] [Worker-Main-3/INFO]: Preparing spawn area: 69%
-[02:49:48] [Worker-Main-1/INFO]: Preparing spawn area: 70%
-[02:49:49] [Worker-Main-3/INFO]: Preparing spawn area: 72%
-[02:49:49] [Worker-Main-1/INFO]: Preparing spawn area: 72%
-[02:49:50] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[02:49:50] [Worker-Main-2/INFO]: Preparing spawn area: 74%
-[02:49:51] [Worker-Main-1/INFO]: Preparing spawn area: 75%
-[02:49:51] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[02:49:52] [Worker-Main-3/INFO]: Preparing spawn area: 79%
-[02:49:52] [Worker-Main-3/INFO]: Preparing spawn area: 81%
-[02:49:53] [Worker-Main-1/INFO]: Preparing spawn area: 82%
-[02:49:53] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[02:49:54] [Worker-Main-1/INFO]: Preparing spawn area: 84%
-[02:49:54] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[02:49:55] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[02:49:55] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[02:49:56] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[02:49:56] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[02:49:57] [Worker-Main-1/INFO]: Preparing spawn area: 91%
-[02:49:57] [Worker-Main-1/INFO]: Preparing spawn area: 92%
-[02:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[02:49:58] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[02:49:59] [Worker-Main-3/INFO]: Preparing spawn area: 97%
-[02:49:59] [Worker-Main-3/INFO]: Preparing spawn area: 98%
-[02:50:00] [Worker-Main-1/INFO]: Preparing spawn area: 99%
-[02:50:00] [Server thread/INFO]: Time elapsed: 48585 ms
-[02:50:00] [Server thread/INFO]: Done (56.828s)! For help, type "help"
-[02:50:08] [Server thread/INFO]: Added ClayGamer01 to the whitelist
-[02:50:16] [Server thread/INFO]: Added Quindolin to the whitelist
-[02:50:24] [Server thread/INFO]: Added annapeeps9 to the whitelist
+[00:00:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@124039a6[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59464) lost connection: Disconnected
+[00:01:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4163bdf8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36354) lost connection: Disconnected
+[00:02:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a52d4bd[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41548) lost connection: Disconnected
+[00:03:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@59cc4958[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46736) lost connection: Disconnected
+[00:03:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@76439b1f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51866) lost connection: Disconnected
+[00:04:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a136452[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57072) lost connection: Disconnected
+[00:05:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d85ab97[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34022) lost connection: Disconnected
+[00:06:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@27745a5b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39228) lost connection: Disconnected
+[00:07:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@16749b13[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44420) lost connection: Disconnected
+[00:08:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@252bc77e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:49580) lost connection: Disconnected
+[00:08:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@4592095f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54752) lost connection: Disconnected
+[00:09:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@40b12534[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59870) lost connection: Disconnected
+[00:10:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@9c4bb2e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36818) lost connection: Disconnected
+[00:11:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@5cc993b8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42628) lost connection: Disconnected
+[00:12:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@15189590[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47158) lost connection: Disconnected
+[00:13:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b28bb03[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52336) lost connection: Disconnected
+[00:13:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@37197e83[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57488) lost connection: Disconnected
+[00:14:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@27dd6f8b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34474) lost connection: Disconnected
+[00:15:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@28169792[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39582) lost connection: Disconnected
+[00:16:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@54870975[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44700) lost connection: Disconnected
+[00:17:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@18ea8559[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:49954) lost connection: Disconnected
+[00:18:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@28358bd3[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55094) lost connection: Disconnected
+[00:18:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@34833340[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60226) lost connection: Disconnected
+[00:19:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@58a34804[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37176) lost connection: Disconnected
+[00:20:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@1040b441[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43052) lost connection: Disconnected
+[00:21:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@3df49c3a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47506) lost connection: Disconnected
+[00:22:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f5500e8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52702) lost connection: Disconnected
+[00:23:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1560aee8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58548) lost connection: Disconnected
+[00:23:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@97e2b9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34830) lost connection: Disconnected
+[00:24:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@199babdd[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40582) lost connection: Disconnected
+[00:25:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e194a93[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45198) lost connection: Disconnected
+[00:26:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@61a4e9c3[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50340) lost connection: Disconnected
+[00:27:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@25256369[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55430) lost connection: Disconnected
+[00:28:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ed23111[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60620) lost connection: Disconnected
+[00:28:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@a0bad8a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37540) lost connection: Disconnected
+[00:29:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ca7a7f9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42690) lost connection: Disconnected
+[00:30:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d4250d5[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47808) lost connection: Disconnected
+[00:31:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@1af2c30a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52956) lost connection: Disconnected
+[00:32:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b9b27c2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58096) lost connection: Disconnected
+[00:33:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@142a374d[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35070) lost connection: Disconnected
+[00:33:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@4bb109e5[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40222) lost connection: Disconnected
+[00:34:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@4757790a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45402) lost connection: Disconnected
+[00:35:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@309532af[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51208) lost connection: Disconnected
+[00:36:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@73a8fb79[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55672) lost connection: Disconnected
+[00:37:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@fcb432f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33340) lost connection: Disconnected
+[00:38:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d614188[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37828) lost connection: Disconnected
+[00:39:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@647804c1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43568) lost connection: Disconnected
+[00:39:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@503f4804[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48154) lost connection: Disconnected
+[00:40:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@7222d739[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53970) lost connection: Disconnected
+[00:41:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@56d89bb0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59150) lost connection: Disconnected
+[00:42:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c0d8607[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35400) lost connection: Disconnected
+[00:43:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c2dea82[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41222) lost connection: Disconnected
+[01:21:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@72d352e1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48478) lost connection: Disconnected
+[01:22:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@4334ca69[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53574) lost connection: Disconnected
+[01:22:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@5eb60421[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58750) lost connection: Disconnected
+[01:23:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@e991028[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35684) lost connection: Disconnected
+[01:24:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@66b50f40[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40808) lost connection: Disconnected
+[01:25:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d4e7d26[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45990) lost connection: Disconnected
+[01:26:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b9038f7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51136) lost connection: Disconnected
+[01:27:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@6591edca[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:56314) lost connection: Disconnected
+[01:27:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@59a96b0b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33202) lost connection: Disconnected
+[01:28:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@47109a55[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:38378) lost connection: Disconnected
+[01:29:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d6d55c0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43524) lost connection: Disconnected
+[01:30:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@7780a1a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48724) lost connection: Disconnected
+[01:31:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@569a2a09[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53820) lost connection: Disconnected
+[01:31:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@51dea64f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58968) lost connection: Disconnected
+[02:08:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@67d6aa50[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36330) lost connection: Disconnected
+[02:09:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@55ea2626[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41236) lost connection: Disconnected
+[02:10:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@6cd5eb4b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46318) lost connection: Disconnected
+[02:11:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e8358ab[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51430) lost connection: Disconnected
+[02:12:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@3adc924b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:56514) lost connection: Disconnected
+[02:12:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@76cf3bdd[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33370) lost connection: Disconnected
+[02:13:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@350319fc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:38434) lost connection: Disconnected
+[02:14:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@116149f7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43506) lost connection: Disconnected
+[02:15:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@40ef04ba[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:49190) lost connection: Disconnected
+[02:16:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d8e39a2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54282) lost connection: Disconnected
+[02:17:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@763bfb15[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59324) lost connection: Disconnected
+[02:17:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@37f17187[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35552) lost connection: Disconnected
+[02:18:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@f036917[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40580) lost connection: Disconnected
+[02:19:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@13dc027c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45668) lost connection: Disconnected
+[02:20:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a96a041[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50714) lost connection: Disconnected
+[02:21:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@120819d1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55842) lost connection: Disconnected
+[02:21:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@61b4260e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60908) lost connection: Disconnected
+[02:22:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@6eaf06d1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37740) lost connection: Disconnected
+[02:23:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@545cb9a2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43476) lost connection: Disconnected
+[02:24:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@648e469[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47894) lost connection: Disconnected
+[02:25:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@468c26f8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52912) lost connection: Disconnected
+[02:25:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@61230b7d[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57930) lost connection: Disconnected
+[02:26:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@2089c09c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35442) lost connection: Disconnected
+[02:27:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@7958993[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39884) lost connection: Disconnected
+[02:28:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e14588e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44964) lost connection: Disconnected
+[02:29:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@3715dad2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50028) lost connection: Disconnected
+[02:29:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@5976618c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55132) lost connection: Disconnected
+[02:30:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@1eb844c6[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60120) lost connection: Disconnected
+[02:31:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@762de89[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36970) lost connection: Disconnected
+[02:32:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@6df2b5e8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42064) lost connection: Disconnected
+[02:33:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a300fd4[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47092) lost connection: Disconnected
+[02:34:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@66f2f220[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52178) lost connection: Disconnected
+[02:34:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@77f5eee1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57240) lost connection: Disconnected
+[02:35:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@3524b893[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34770) lost connection: Disconnected
+[02:36:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@44363fe5[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39868) lost connection: Disconnected
+[02:37:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c6c4364[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44998) lost connection: Disconnected
+[02:38:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@117108b3[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50080) lost connection: Disconnected
+[02:39:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@101ca2e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54442) lost connection: Disconnected
+[02:39:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@74bd04fc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59502) lost connection: Disconnected
+[02:40:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@1319bb19[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36356) lost connection: Disconnected
+[02:41:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cc653ee[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41412) lost connection: Disconnected
+[02:42:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@403e6e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46490) lost connection: Disconnected
+[02:43:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@2aad8764[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52210) lost connection: Disconnected
+[02:44:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@74b2205b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:56638) lost connection: Disconnected
+[02:44:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a455400[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33520) lost connection: Disconnected
+[02:45:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d2788c5[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:38512) lost connection: Disconnected
+[02:46:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@7872d3c2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43574) lost connection: Disconnected
+[02:47:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@8676d98[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48596) lost connection: Disconnected
+[02:48:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e656a0e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54356) lost connection: Disconnected
+[02:49:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@4fa5a6a7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58754) lost connection: Disconnected
+[02:49:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@21a79052[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35564) lost connection: Disconnected
+[02:50:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@576f0f04[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40658) lost connection: Disconnected
+[02:51:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@351d1bd0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46434) lost connection: Disconnected
+[02:52:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@28253821[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50808) lost connection: Disconnected
+[02:53:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@43c31adc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57136) lost connection: Disconnected
+[02:54:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c7b2a8f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:32796) lost connection: Disconnected
+[02:55:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@3080bd76[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42962) lost connection: Disconnected
+[02:56:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@6bce5440[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48010) lost connection: Disconnected
+[02:57:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ed424e4[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53034) lost connection: Disconnected
+[02:58:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@44d10742[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58788) lost connection: Disconnected
+[02:59:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@718f69a3[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34908) lost connection: Disconnected
+[02:59:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@68fa5f86[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39956) lost connection: Disconnected
+[03:00:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@5bd14bd2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45712) lost connection: Disconnected
+[03:01:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@5119f37a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50160) lost connection: Disconnected
+[03:02:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ba590b0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55148) lost connection: Disconnected
+[03:03:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@495a3dd0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60184) lost connection: Disconnected
+[03:04:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@180470f2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37804) lost connection: Disconnected
+[03:05:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@618d2ab[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42102) lost connection: Disconnected
+[03:05:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@5953f39a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47212) lost connection: Disconnected
+[03:06:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@62eb9ba2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52312) lost connection: Disconnected
+[03:07:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@222690de[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57398) lost connection: Disconnected
+[03:08:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cf14fe0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34232) lost connection: Disconnected
+[03:09:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@5af8b0c7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39270) lost connection: Disconnected
+[03:10:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@64f006b1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45110) lost connection: Disconnected
+[03:10:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@64de0576[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:49500) lost connection: Disconnected
+[03:11:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b3fffa2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54580) lost connection: Disconnected
+[03:12:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f1eabfa[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59670) lost connection: Disconnected
+[03:13:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b48f8ca[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36488) lost connection: Disconnected
+[03:14:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f29b360[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41604) lost connection: Disconnected
+[03:14:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@4bef87c8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46652) lost connection: Disconnected
+[03:15:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@3dd6867e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51720) lost connection: Disconnected
+[03:16:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fe68017[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57426) lost connection: Disconnected
+[03:17:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@88081e4[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33628) lost connection: Disconnected
+[03:18:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@ce1e1c4[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39364) lost connection: Disconnected
+[03:19:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@58d7350[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43804) lost connection: Disconnected
+[03:20:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@ee0bdce[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48866) lost connection: Disconnected
+[03:20:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@18fbc1e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53974) lost connection: Disconnected
+[03:21:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f76588c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59736) lost connection: Disconnected
+[03:22:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@64738661[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35858) lost connection: Disconnected
+[03:23:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a9c4192[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40972) lost connection: Disconnected
+[03:24:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@68f7d93[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46020) lost connection: Disconnected
+[03:25:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b60e7f6[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51106) lost connection: Disconnected
+[03:25:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@3bd0675d[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:56174) lost connection: Disconnected
+[03:26:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@464ef651[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33048) lost connection: Disconnected
+[03:27:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@1acdf639[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:38126) lost connection: Disconnected
+[03:28:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@7864b48f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43864) lost connection: Disconnected
+[03:29:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@40b6ce51[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48356) lost connection: Disconnected
+[03:29:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@717b5468[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53412) lost connection: Disconnected
+[03:30:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@59ef049d[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58504) lost connection: Disconnected
+[03:31:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f5d9db7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35350) lost connection: Disconnected
+[03:32:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ae4420[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40352) lost connection: Disconnected
+[03:33:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@108aecfd[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45494) lost connection: Disconnected
+[03:34:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@31e0c99d[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50532) lost connection: Disconnected
+[03:34:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@72134a33[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55646) lost connection: Disconnected
+[03:35:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@43c07661[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60900) lost connection: Disconnected
+[03:36:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@74dbf3a5[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37530) lost connection: Disconnected
+[03:37:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cf17ddf[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42584) lost connection: Disconnected
+[03:38:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c33cb63[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47628) lost connection: Disconnected
+[03:39:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@c00dffa[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52650) lost connection: Disconnected
+[03:39:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@276d5304[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57674) lost connection: Disconnected
+[03:40:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@625f700f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34608) lost connection: Disconnected
+[03:41:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@682a9cb1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39662) lost connection: Disconnected
+[03:42:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@251217c3[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44762) lost connection: Disconnected
+[03:43:00] [User Authenticator #285/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:43:00] [Server thread/INFO]: ClayGamer01[/128.194.2.18:48558] logged in with entity id 3383730 at (-2415.0467094153864, 132.0, 742.1245729586383)
+[03:43:00] [Server thread/INFO]: ClayGamer01 joined the game
+[03:43:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f426da7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:49822) lost connection: Disconnected
+[03:43:37] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[03:43:37] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:43:37] [Server thread/INFO]: ClayGamer01 left the game
+[03:43:41] [User Authenticator #286/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:43:41] [Server thread/INFO]: ClayGamer01[/128.194.2.18:44125] logged in with entity id 3384032 at (-2415.0467094153864, 132.0, 742.1245729586383)
+[03:43:41] [Server thread/INFO]: ClayGamer01 joined the game
+[03:44:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b1169a0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54904) lost connection: Disconnected
+[03:44:36] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:44:36] [Server thread/INFO]: ClayGamer01 left the game
+[03:44:46] [User Authenticator #287/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:44:46] [Server thread/INFO]: ClayGamer01[/66.253.198.150:64377] logged in with entity id 3384375 at (-2415.0467094153864, 132.0, 742.1245729586383)
+[03:44:46] [Server thread/INFO]: ClayGamer01 joined the game
+[03:44:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@8ccaa3b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60642) lost connection: Disconnected
+[03:45:20] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:45:20] [Server thread/INFO]: ClayGamer01 left the game
+[03:45:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@316df588[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36746) lost connection: Disconnected
+[03:46:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@237b12e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41862) lost connection: Disconnected
+[03:47:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@116e32db[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46932) lost connection: Disconnected
+[03:48:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@7fa52f9b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51980) lost connection: Disconnected
+[03:49:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@21ba5452[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57004) lost connection: Disconnected
+[03:49:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e3b3f8a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33844) lost connection: Disconnected
+[03:50:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@28ac1fd4[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39562) lost connection: Disconnected
+[03:51:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@5bc7c657[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44654) lost connection: Disconnected
+[03:52:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c4765ca[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48996) lost connection: Disconnected
+[03:53:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bf068e0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54094) lost connection: Disconnected
+[03:53:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@33ea8af5[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59142) lost connection: Disconnected
+[03:54:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@567a07a1[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35982) lost connection: Disconnected
+[03:55:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@97b803f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41028) lost connection: Disconnected
+[03:56:27] [User Authenticator #288/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:56:27] [Server thread/INFO]: ClayGamer01[/66.253.198.150:65238] logged in with entity id 3384854 at (-2293.337501557242, 101.0, 782.6494785852216)
+[03:56:27] [Server thread/INFO]: ClayGamer01 joined the game
+[03:56:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f9d7acc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46742) lost connection: Disconnected
+[03:57:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@3402ab9a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51130) lost connection: Disconnected
+[03:58:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@3eacdf37[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:56812) lost connection: Disconnected
+[03:58:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@66aa09a8[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33032) lost connection: Disconnected
+[03:59:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@671a14b9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:38086) lost connection: Disconnected
+[04:00:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@ec9154[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43908) lost connection: Disconnected
+[04:01:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ac02f6b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48896) lost connection: Disconnected
+[04:02:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ac15399[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53300) lost connection: Disconnected
+[04:03:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@285646e4[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58416) lost connection: Disconnected
+[04:04:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@394df697[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35286) lost connection: Disconnected
+[04:04:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a9cbbcd[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40330) lost connection: Disconnected
+[04:05:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@57fc3a43[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45428) lost connection: Disconnected
+[04:06:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@313ee92f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50458) lost connection: Disconnected
+[04:07:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@540bdc16[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55514) lost connection: Disconnected
+[04:08:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@20d1c62f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60640) lost connection: Disconnected
+[04:08:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@34808b50[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37514) lost connection: Disconnected
+[04:09:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d1385b3[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42540) lost connection: Disconnected
+[04:10:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@b3b2021[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48278) lost connection: Disconnected
+[04:11:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d6ff165[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52656) lost connection: Disconnected
+[04:12:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b2ccb59[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57754) lost connection: Disconnected
+[04:12:47] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[04:12:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c674dee[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34556) lost connection: Disconnected
+[04:13:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@559abe30[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39652) lost connection: Disconnected
+[04:14:14] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[04:14:15] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[04:14:15] [Server thread/INFO]: ClayGamer01 left the game
+[04:14:17] [User Authenticator #289/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[04:14:17] [Server thread/INFO]: ClayGamer01[/66.253.198.150:65324] logged in with entity id 3389447 at (-2272.7802105584906, 103.0, 816.8154111223192)
+[04:14:17] [Server thread/INFO]: ClayGamer01 joined the game
+[04:14:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ce26009[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45438) lost connection: Disconnected
+[04:15:07] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[04:15:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@3727890f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:49816) lost connection: Disconnected
+[04:16:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@22cd3ce9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54962) lost connection: Disconnected
+[04:17:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c0991f2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:32988) lost connection: Disconnected
+[04:17:20] [User Authenticator #290/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[04:17:20] [Server thread/INFO]: Quindolin[/35.150.67.132:65294] logged in with entity id 3390491 at (-2414.6939693594513, 127.0, 680.565235554754)
+[04:17:20] [Server thread/INFO]: Quindolin joined the game
+[04:17:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@10876d2c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36816) lost connection: Disconnected
+[04:18:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@2780faf7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41934) lost connection: Disconnected
+[04:19:20] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[04:19:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@6dc38654[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47030) lost connection: Disconnected
+[04:20:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@738ad003[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52036) lost connection: Disconnected
+[04:21:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b6dd267[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57122) lost connection: Disconnected
+[04:21:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a7019b9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33998) lost connection: Disconnected
+[04:22:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@669e7e4b[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39006) lost connection: Disconnected
+[04:23:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@19c6ff12[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44054) lost connection: Disconnected
+[04:24:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@55d56c95[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:49732) lost connection: Disconnected
+[04:25:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@41eee76c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54156) lost connection: Disconnected
+[04:25:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a57b5b7[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59248) lost connection: Disconnected
+[04:26:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e7619c4[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:36080) lost connection: Disconnected
+[04:27:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@59caa76f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41156) lost connection: Disconnected
+[04:28:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a0f62be[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46224) lost connection: Disconnected
+[04:29:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@70b1a19e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51260) lost connection: Disconnected
+[04:30:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@32c5d980[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:56282) lost connection: Disconnected
+[04:30:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@716f1af[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33086) lost connection: Disconnected
+[04:31:11] [Server thread/INFO]: Quindolin has reached the goal [Sky's the Limit]
+[04:31:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@439b74d6[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:38100) lost connection: Disconnected
+[04:32:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@50a02a5e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43786) lost connection: Disconnected
+[04:33:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@2905040c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48174) lost connection: Disconnected
+[04:34:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1dbf13ef[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:53904) lost connection: Disconnected
+[04:34:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d36114a[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:58320) lost connection: Disconnected
+[04:35:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@265ecfec[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:35222) lost connection: Disconnected
+[04:36:29] [Server thread/INFO]: Quindolin fell from a high place
+[04:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[04:36:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a035154[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:40346) lost connection: Disconnected
+[04:37:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fa2c9cc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:45368) lost connection: Disconnected
+[04:38:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@178ddf3d[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51142) lost connection: Disconnected
+[04:38:33] [Server thread/WARN]: Quindolin moved too quickly! 0.03779691074942093,-5.121296840539202,8.642470412950956
+[04:38:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@779bc475[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:55490) lost connection: Disconnected
+[04:39:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@3be7d078[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:60496) lost connection: Disconnected
+[04:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3457ms or 69 ticks behind
+[04:40:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@234f1dd9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:38008) lost connection: Disconnected
+[04:41:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@10f50d44[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:42448) lost connection: Disconnected
+[04:42:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@703fea7e[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:47502) lost connection: Disconnected
+[04:43:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@55bf44d2[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:52562) lost connection: Disconnected
+[04:43:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@55df29ea[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:57620) lost connection: Disconnected
+[04:44:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@46a323bc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:34434) lost connection: Disconnected
+[04:45:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@15e455dc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39568) lost connection: Disconnected
+[04:46:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@7eca7886[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:44636) lost connection: Disconnected
+[04:46:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:47:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@379df683[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:50340) lost connection: Disconnected
+[04:47:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@29d41da5[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54702) lost connection: Disconnected
+[04:48:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e360a45[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59768) lost connection: Disconnected
+[04:49:27] [Server thread/WARN]: ClayGamer01 moved too quickly! 6.329152956827215,1.6333323889290483,-7.930343089069993
+[04:49:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@542c99eb[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:37322) lost connection: Disconnected
+[04:50:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e6acc9c[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:41674) lost connection: Disconnected
+[04:51:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@573c05cc[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:46734) lost connection: Disconnected
+[04:51:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@7af6de71[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:51824) lost connection: Disconnected
+[04:52:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@62cacb14[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:56880) lost connection: Disconnected
+[04:53:00] [Server thread/WARN]: Quindolin moved too quickly! 8.89401229992609,3.7108741558711245,14.61775903665648
+[04:53:05] [Server thread/WARN]: Quindolin moved too quickly! 14.259454441029902,-3.2934237900397676,11.272471813585526
+[04:53:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@7add93e3[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:33684) lost connection: Disconnected
+[04:53:51] [Server thread/WARN]: ClayGamer01 moved too quickly! 13.094696990764078,4.410495197777195,11.754827025161376
+[04:54:25] [Server thread/WARN]: ClayGamer01 moved too quickly! 0.4774775538137419,-2.7544939817698832,-18.157054741417596
+[04:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
+[04:54:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@479da0e9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:39442) lost connection: Disconnected
+[04:54:36] [Server thread/WARN]: ClayGamer01 moved too quickly! -12.528905478111028,6.562662446206716,11.24905141791487
+[04:54:42] [Server thread/WARN]: ClayGamer01 moved too quickly! 10.418626666549699,1.5732954219927393,-14.75171831452326
+[04:54:47] [Server thread/WARN]: ClayGamer01 moved too quickly! 10.83420139195323,3.6621819039009154,-14.098869519051732
+[04:54:52] [Server thread/WARN]: ClayGamer01 moved too quickly! 9.197077527709553,2.300024729669019,-15.104698466768241
+[04:54:57] [Server thread/WARN]: ClayGamer01 moved too quickly! 11.461943338398669,-1.692386476537564,-14.206328487352494
+[04:55:02] [Server thread/WARN]: ClayGamer01 moved too quickly! 13.342252236424429,-1.555331804322691,-11.295732698944903
+[04:55:07] [Server thread/WARN]: ClayGamer01 moved too quickly! 18.424004582529506,-1.8911003176110626,-3.1769515535711434
+[04:55:12] [Server thread/WARN]: ClayGamer01 moved too quickly! 16.11300609349928,-0.8918675219817658,-7.782471926731432
+[04:55:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@53377af9[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:43790) lost connection: Disconnected
+[04:55:17] [Server thread/WARN]: ClayGamer01 moved too quickly! 17.58636164615723,-1.1236104953179904,-3.5647989430949565
+[04:55:58] [Server thread/WARN]: ClayGamer01 moved too quickly! 16.554363683756947,-1.3103172266611978,-5.961767867108392
+[04:56:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@19cce0dd[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:48880) lost connection: Disconnected
+[04:56:03] [Server thread/WARN]: ClayGamer01 moved too quickly! 17.25311108794358,2.904078819570586,-4.885171598693432
+[04:56:08] [Server thread/WARN]: ClayGamer01 moved too quickly! 17.076709275421763,-1.539394096919736,-6.310171882298619
+[04:56:14] [Server thread/WARN]: ClayGamer01 moved too quickly! 10.518731808671873,-2.0285241193257093,-14.625666548850404
+[04:56:19] [Server thread/WARN]: ClayGamer01 moved too quickly! 13.600787270529963,-1.4640301250641983,-12.340858952566123
+[04:56:24] [Server thread/WARN]: ClayGamer01 moved too quickly! 16.851952842516766,-1.0900072415688271,-6.713013428994145
+[04:56:29] [Server thread/WARN]: ClayGamer01 moved too quickly! 11.251308600022185,-1.890321343600803,-14.871951010918565
+[04:56:34] [Server thread/WARN]: ClayGamer01 moved too quickly! 11.087872178432917,-1.770799652181239,-14.926280894455886
+[04:56:39] [Server thread/WARN]: ClayGamer01 moved too quickly! 11.834288098449633,-0.3724982800573997,-13.440599091272361
+[04:56:49] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[04:56:49] [Server thread/INFO]: ClayGamer01 left the game
+[04:56:52] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[04:56:52] [Server thread/INFO]: Quindolin left the game
+[04:56:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b2b59f[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:54570) lost connection: Disconnected
+[04:57:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:57:39] [Server thread/INFO]: [A[A[A[A[A[A[B[B[B[B[B[B[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[5~[5~[5~[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[Bstop<--[HERE]
+[04:57:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e0605f0[id=<null>,name=pfcloud,properties={},legacy=false] (/45.128.232.206:59044) lost connection: Disconnected
+[04:57:46] [Server thread/INFO]: Stopping the server
+[04:57:46] [Server thread/INFO]: Stopping server
+[04:57:46] [Server thread/INFO]: Saving players
+[04:57:46] [Server thread/INFO]: Saving worlds
+[04:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:57:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:57:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
